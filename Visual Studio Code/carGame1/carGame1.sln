@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carGame1", "carGame1\carGame1\carGame1.csproj", "{FB89124A-F36D-4F60-A6A5-F92FFB8D5B95}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "carGame1Content", "carGame1\carGame1Content\carGame1Content.contentproj", "{8DAE113B-8889-4CC7-9753-FB89C76B40EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB89124A-F36D-4F60-A6A5-F92FFB8D5B95}.Debug|x86.ActiveCfg = Debug|x86
+		{FB89124A-F36D-4F60-A6A5-F92FFB8D5B95}.Debug|x86.Build.0 = Debug|x86
+		{FB89124A-F36D-4F60-A6A5-F92FFB8D5B95}.Release|x86.ActiveCfg = Release|x86
+		{FB89124A-F36D-4F60-A6A5-F92FFB8D5B95}.Release|x86.Build.0 = Release|x86
+		{8DAE113B-8889-4CC7-9753-FB89C76B40EB}.Debug|x86.ActiveCfg = Debug|x86
+		{8DAE113B-8889-4CC7-9753-FB89C76B40EB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

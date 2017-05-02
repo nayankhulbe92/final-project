@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\car.png</Source>
+      <Name>Sprites\car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Sprites\car.xnb</Output>
+      <Time>2017-04-17T21:36:20.5510024+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\road.jpg</Source>
+      <Name>Sprites\road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Sprites\road.xnb</Output>
+      <Time>2017-04-17T22:01:52.9932264+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\road copy.png</Source>
+      <Name>Sprites\road copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Sprites\road copy.xnb</Output>
+      <Time>2017-04-17T23:00:44.8399724+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\road1.png</Source>
+      <Name>Sprites\road1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Sprites\road1.xnb</Output>
+      <Time>2017-04-17T23:03:31.7763867+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\car1.png</Source>
+      <Name>Sprites\car1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Sprites\car1.xnb</Output>
+      <Time>2017-04-17T23:41:46.513441+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SpriteFont1.spritefont</Source>
+      <Name>Fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb</Output>
+      <Time>2017-04-18T10:20:09.5503575+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8DAE113B-8889-4CC7-9753-FB89C76B40EB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\chand\documents\visual studio 2013\Projects\carGame1\carGame1\carGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-05T16:49:21.3750145+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
